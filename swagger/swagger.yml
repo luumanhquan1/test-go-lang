@@ -1,0 +1,7 @@
+swagger: "2.0"
+info: {}
+paths: {}
+definitions:
+  model.User:
+    title: User
+    type: object
